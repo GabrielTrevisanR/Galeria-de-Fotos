@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(232, 237, 229);
+}
+
+
+img{
+    width: 280px;
+    height: 250px;
+    margin: 12px; 
+    border-radius: 10px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.linha{
+    display: flex;
+    justify-content: center; 
+}
+
+h1{
+    text-align: center;
+    color: 	#ffd700;
+    font-size: 85px;
+    font-family: "Londrina Shadow", sans-serif;
+}
+
+img:hover {
+    transform: scale(1.1); 
+}
