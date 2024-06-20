@@ -1,6 +1,7 @@
 Galeria de fotos 
 
 <h1>Codigos</h1>
-![Capturar](https://github.com/gTrevisanz/Galeria-de-Fotos/assets/162700611/776dd2cd-aa40-406c-8eac-8a96a0cb1a6a)
+<img src = "![Capturar](https://github.com/gTrevisanz/Galeria-de-Fotos/assets/162700611/fd19d48c-f40a-407f-812a-f7502c8c5d78)" </img>
 <h1>Site</h1>
-![Capturar22](https://github.com/gTrevisanz/Galeria-de-Fotos/assets/162700611/3903dd07-d3b4-41ac-8858-8514284bd802)
+
+![Uploading Capturar22.PNG…]()
