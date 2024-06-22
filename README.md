@@ -2,8 +2,8 @@ Galeria de fotos
 
 <h1>Codigos</h1>
 
-![Capturar](https://github.com/gTrevisanz/Galeria-de-Fotos/assets/162700611/ba8cb848-6f91-48d2-b472-0843adbd13c8)
+![Captura de tela 2024-06-22 191224](https://github.com/gTrevisanz/Galeria-de-Fotos/assets/162700611/6272cc6d-59de-46b7-b7a5-154cd491584f)
 
 <h1>Site</h1>
 
-![Capturar22](https://github.com/gTrevisanz/Galeria-de-Fotos/assets/162700611/de7e9ad5-9f0f-4c84-9beb-5d3cde050dd9)
+![Captura de tela 2024-06-22 191247](https://github.com/gTrevisanz/Galeria-de-Fotos/assets/162700611/562bf460-ebd0-41cb-b9c0-c232f1dc75b9)
